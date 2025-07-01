@@ -1,0 +1,30 @@
+body {
+    background-color: #204d36;
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.nav{
+  display: flex;
+  justify-content: flex-start;
+  gap: 40px;
+  background-color: #4B0082;
+  height: 45px;
+}
+
+.info{
+    margin-left: 10px;
+    font-size: 16px;
+    color: #FFD700;
+    margin-top: 10px;
+    letter-spacing: 2px; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+    font-weight: bold; 
+    text-decoration: none;
+}
+
+.ph{
+  width: 30px;
+  height: 30px;
+}
