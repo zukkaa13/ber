@@ -28,3 +28,20 @@ body {
   width: 30px;
   height: 30px;
 }
+
+.dr{
+  display:flex;
+  justify-content: center;
+}
+
+.ch{
+  margin-top: 20px;
+  height: 200px;
+  width: 200px;
+}
+
+.krr{
+  margin-top: 20px;
+  height: 200px;
+  width: 700px;
+}

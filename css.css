@@ -16,7 +16,7 @@ html, body {
 
 
 .info{
-  font-size: 30px;
+  font-size: 25px;
   color: #FFD700;
   margin-top: 10px;
    letter-spacing: 2px; 
@@ -33,7 +33,7 @@ html, body {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 650px;
+  gap: 400px;
   height: 1px;
   margin-top: -13px;
 }
