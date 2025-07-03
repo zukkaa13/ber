@@ -45,3 +45,31 @@ body {
   height: 200px;
   width: 700px;
 }
+
+.list{
+  font-size: 25px;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+  letter-spacing: 2px; 
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); 
+  font-weight: bold; 
+  text-decoration: none;
+
+}
+
+.listt{
+  font-size: 20px;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+  letter-spacing: 2px; 
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); 
+  font-weight: bold; 
+  text-decoration: none;
+}
+
